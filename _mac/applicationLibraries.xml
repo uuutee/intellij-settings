@@ -545,7 +545,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/nio4r-2.3.1/spec" />
@@ -554,7 +553,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/nio4r-2.3.1/spec" />
@@ -573,7 +571,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/nokogiri-1.8.4/lib" />
@@ -584,7 +581,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/nokogiri-1.8.4/lib" />
@@ -980,13 +976,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
