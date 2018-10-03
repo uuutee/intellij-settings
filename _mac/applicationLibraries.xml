@@ -98,6 +98,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="gdbm (v2.0.0, rbenv: 2.6.0-preview1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="io-console (v0.4.6, rbenv: 2.6.0-preview1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
