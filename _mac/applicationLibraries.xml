@@ -478,14 +478,12 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/test" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/test" />
@@ -543,14 +541,12 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/lib" />
@@ -882,14 +878,12 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ffi-1.9.25/samples" />
@@ -1561,7 +1555,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nio4r-2.3.1/spec" />
@@ -1570,7 +1563,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nio4r-2.3.1/spec" />
@@ -1589,7 +1581,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/lib" />
@@ -1600,7 +1591,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/lib" />
@@ -2006,14 +1996,12 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.3/lib" />
@@ -2632,14 +2620,12 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/examples" />
