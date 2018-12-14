@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping ext="schema" type="Ruby" />
     </extensionMap>
   </component>
 </application>
