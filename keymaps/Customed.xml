@@ -138,6 +138,9 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="meta alt back_slash" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
