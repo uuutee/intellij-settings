@@ -3246,6 +3246,26 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0-preview1/lib/ruby/gems/2.6.0/gems/net-telnet-0.1.1/bin" />
       </excluded>
     </library>
+    <library name="net_http_ssl_fix (v0.0.10, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/net_http_ssl_fix-0.0.10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/net_http_ssl_fix-0.0.10/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/net_http_ssl_fix-0.0.10/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/net_http_ssl_fix-0.0.10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/net_http_ssl_fix-0.0.10/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/net_http_ssl_fix-0.0.10/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/net_http_ssl_fix-0.0.10/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/net_http_ssl_fix-0.0.10/spec" />
+      </excluded>
+    </library>
     <library name="nio4r (v2.3.1, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -6187,6 +6207,23 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/web-console-3.7.0/lib" />
       </SOURCES>
+    </library>
+    <library name="webdrivers (v3.7.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webdrivers-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webdrivers-3.7.1/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webdrivers-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webdrivers-3.7.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webdrivers-3.7.1/spec" />
+      </excluded>
     </library>
     <library name="webmock (v3.3.0, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
