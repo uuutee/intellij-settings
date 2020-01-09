@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".envrc.development" type=".env file" />
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping ext="schema" type="Ruby" />
     </extensionMap>
   </component>
