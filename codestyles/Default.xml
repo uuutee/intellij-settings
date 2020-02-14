@@ -2,6 +2,13 @@
   <GoCodeStyleSettings>
     <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
   </GoCodeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="ruby">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
