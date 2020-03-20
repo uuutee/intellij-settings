@@ -19,6 +19,11 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
@@ -38,6 +43,8 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -63,6 +70,11 @@
   </action>
   <action id="EmmetUpdateTag">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
   </action>
   <action id="FileChooser.Delete">
     <keyboard-shortcut first-keystroke="delete" />
