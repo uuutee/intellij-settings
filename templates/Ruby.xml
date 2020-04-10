@@ -1,3 +1,7 @@
 <templateSet group="Ruby">
-  <template name="b" value="binding.pry" description="binding.pry" toReformat="false" toShortenFQNames="true" />
+  <template name="b" value="binding.pry" description="binding.pry" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
