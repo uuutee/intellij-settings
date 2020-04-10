@@ -1,0 +1,3 @@
+<templateSet group="Rails">
+  <template name="binding.pry" value="binding.pry" toReformat="false" toShortenFQNames="true" />
+</templateSet>
