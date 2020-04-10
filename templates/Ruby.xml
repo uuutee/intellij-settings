@@ -1,0 +1,3 @@
+<templateSet group="Ruby">
+  <template name="b" value="binding.pry" description="binding.pry" toReformat="false" toShortenFQNames="true" />
+</templateSet>
