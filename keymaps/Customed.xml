@@ -19,6 +19,7 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="CheckinProject" />
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta subtract" />
     <keyboard-shortcut first-keystroke="meta minus" />
@@ -90,6 +91,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
