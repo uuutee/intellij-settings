@@ -4,6 +4,7 @@
       <mapping pattern=".envrc.development" type=".env file" />
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern="ToggleBetaButtonProps" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern="channel_api_credential" type="Ruby" />
       <mapping ext="schema" type="Ruby" />
