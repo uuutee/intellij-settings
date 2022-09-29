@@ -2,11 +2,11 @@
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="delete" />
   </action>
-  <action id="ActivateRunToolWindow" />
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="meta 4" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="ActivateRunToolWindow" />
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Alias.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
@@ -19,6 +19,12 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="CheckinProject" />
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
@@ -26,6 +32,12 @@
   </action>
   <action id="Debug" />
   <action id="DebugClass" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Remove">
@@ -38,6 +50,8 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -64,6 +78,11 @@
   <action id="EmmetUpdateTag">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+  </action>
   <action id="FileChooser.Delete">
     <keyboard-shortcut first-keystroke="delete" />
   </action>
@@ -72,6 +91,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -138,8 +160,11 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="meta alt back_slash" />
+  </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="meta alt 2" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -166,8 +191,8 @@
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
-  <action id="UnsplitAll">
-    <keyboard-shortcut first-keystroke="meta alt 0" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
