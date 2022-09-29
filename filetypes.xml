@@ -1,9 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="env" type="Env File" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping ext="schema" type="Ruby" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
